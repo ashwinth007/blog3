@@ -1,0 +1,44 @@
+[
+        {
+                "id": 1,
+                "src": "/eleven.jpg",
+                "title": "Eleven",
+                "des": "Eleven, also known as Jane Ives, is a young girl with psychokinetic abilities, initially discovered by a group of friends in Hawkins, Indiana. She is a key figure in the fight against the supernatural forces plaguing the town, particularly the Upside Down. "
+        },
+        {
+                "id": 2,
+                "src": "/dustin.jpeg",
+                "title": "Dustin",
+                "des": "Dustin Henderson, a main character in Stranger Things, is known for his intelligence, goofy nature, and unwavering loyalty to his friends. "
+        },
+        {
+                "id": 3,
+                "src": "/lucas.jpeg",
+                "title": "Lucas",
+                "des": "Lucas Sinclair, played by Caleb McLaughlin, is a key member of the friend group in Stranger Things "
+        },
+        {
+                "id": 4,
+                "src": "/max.jpeg",
+                "title": "max",
+                "des": "Maxine-Max Mayfield, played by Sadie Sink, is a strong-willed newcomer to Hawkins introduced in season two "
+        },
+        {
+                "id": 5,
+                "src": "/mike.jpg",
+                "title": "mike",
+                "des": "Mike Wheeler, played by Finn Wolfhard, is the leader of the party and Eleven's boyfriend in Stranger Things."
+        },
+        {
+                "id": 6,
+                "src": "/will.jpeg",
+                "title": "will",
+                "des": "Stranger Things: 10 Quotes That Perfectly Sum Up Will As A ...Will Byers is a shy, artistic boy who loves playing Dungeons & Dragons with his friends. "
+        },
+        {
+                "id": 7,
+                "src": "/steve.jpeg",
+                "title": "steve",
+                "des": "Steve Harrington, initially a popular but shallow jock, undergoes significant character development in Stranger Things. He evolves into a courageous, thoughtful, and caring individual, often acting as a protector and mentor figure, particularly to the younger characters "
+        }
+]
