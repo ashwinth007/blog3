@@ -1,13 +1,20 @@
 import atas from "@/lib/one.json"
 import styles from "./Cartoon.module.css"
-const Cartoon=({params})=>{
-    const data=atas;
 
-return(
-    <div className={styles.container}>
-      <img src={data[params.Cartoon-1].src} className={styles.image} alt={data[params.Cartoon-1].title} />
-      <h1 className={styles.title}>{data[params.Cartoon-1].des}</h1>
+const Cartoon = ({ params }) => {
+  const data = atas;
+  const item = data[params.Cartoon - 1];
+
+  return (
+    <div className={styles.wrapper}>
+      <div className={styles.imageContainer} style ={{marginRight: "80px"}}>
+        <img src={item.src} className={styles.image} alt={item.title} />
+      </div>
+      <div className={styles.textContainer}>
+        <h1 className={styles.title}>{item.des}</h1>
+      </div>
     </div>
-)
-}
+  );
+};
+
 export default Cartoon;

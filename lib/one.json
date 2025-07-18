@@ -3,7 +3,7 @@
                 "id": 1,
                 "src": "/eleven.jpg",
                 "title": "Eleven",
-                "des": "Eleven, also known as Jane Ives, is a young girl with psychokinetic abilities, initially discovered by a group of friends in Hawkins, Indiana. She is a key figure in the fight against the supernatural forces plaguing the town, particularly the Upside Down. "
+                "des": "Eleven, also known as Jane Ives (later Hopper), is a central character in the Netflix series Stranger Things. She is a young girl with psychokinetic and telepathic abilities, a result of being a test subject in the MKUltra experiments at Hawkins National Laboratory. Escaping the lab, she befriends a group of boys and becomes an integral part of their fight against supernatural forces from the Upside Down.  "
         },
         {
                 "id": 2,
@@ -31,7 +31,7 @@
         },
         {
                 "id": 6,
-                "src": "/will.jpeg",
+                "src": "/will.webp",
                 "title": "will",
                 "des": "Stranger Things: 10 Quotes That Perfectly Sum Up Will As A ...Will Byers is a shy, artistic boy who loves playing Dungeons & Dragons with his friends. "
         },
@@ -40,5 +40,10 @@
                 "src": "/steve.jpeg",
                 "title": "steve",
                 "des": "Steve Harrington, initially a popular but shallow jock, undergoes significant character development in Stranger Things. He evolves into a courageous, thoughtful, and caring individual, often acting as a protector and mentor figure, particularly to the younger characters "
+        },{
+                "id":8,
+                "src":"/nancy.webp",
+                "title":"Nancy",
+                "des":"Nancy Wheeler is a smart, determined, and courageous teenager from Hawkins in Stranger Things. She starts off as a typical high school student but quickly becomes involved in the town’s dark secrets after her friend Barb disappears. Known for her strong sense of justice, Nancy evolves into a bold investigator, often risking her safety to uncover the truth. Over time, she challenges gender roles and proves herself as a capable leader among the group."
         }
 ]
