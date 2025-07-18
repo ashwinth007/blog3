@@ -1,7 +1,7 @@
 'use client';
 
 import Link from "next/link";
-import datas from "@/component/lib/one.json"
+import datas from "@/lib/one.json"
 import styles from "./Blog.module.css"
 const Blog = () => {
     let a = datas;

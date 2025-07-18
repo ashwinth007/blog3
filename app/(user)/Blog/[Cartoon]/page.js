@@ -1,4 +1,4 @@
-import atas from "@/component/lib/one.json"
+import atas from "@/lib/one.json"
 import styles from "./Cartoon.module.css"
 const Cartoon=({params})=>{
     const data=atas;
