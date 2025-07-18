@@ -5,7 +5,7 @@
   justify-content: center;
 }
 .right {
-  background: #be4f4f;
+  background: rgb(120, 113, 113);
   padding: 2.5rem 2.5rem 2rem 2.5rem;
   border-radius: 18px;
   box-shadow: 0 4px 24px rgba(0,0,0,0.10);
@@ -35,7 +35,7 @@
 }
 .btn {
   width: 100%;
-  padding: 0.8% 0;
+  padding: 0.75rem 0;
   background: #333;
   color: #fff;
   font-size: 1.1rem;

@@ -1,4 +1,4 @@
-.mainbtn {
+.mainbtn ,.hello{
   min-width: 180px;
   min-height: 120px;
   display: flex;
@@ -10,7 +10,7 @@
   border: 2px solid #e0e0e0;
   border-radius: 18px;
 }
-.index {
+.index ,.ind {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -18,7 +18,7 @@
   gap:48px;
   height: 60vh;
 }
-.top {
+.top,.head {
   width: 100%;
   text-align: center;
   font-size: 40px;
@@ -27,7 +27,4 @@
   padding: 32px 0 24px 0;
   margin-bottom:24px;
   border-bottom: 2px solid #e0e0e0;
-}
-.hello{
-  border: 2px solid gold;
 }

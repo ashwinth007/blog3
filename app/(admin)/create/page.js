@@ -3,9 +3,12 @@ import Link from "next/link";
 const create = () => {
     return (
         <>
-            <h1>create Blog</h1>
-            <Link href="/update" className="hello">Update Blog</Link><br></br>
-            <Link href="/Blog">List all blogs</Link>
+            <h1 className="head">create Blog</h1>
+            <div className="ind">
+                <Link href="/update" className="hello">Update Blog</Link><br></br>
+                <Link href="/Blog" className="hello">List all blogs</Link>
+            </div>
+
         </>
     )
 }
